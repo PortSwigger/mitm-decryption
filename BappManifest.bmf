@@ -1,0 +1,13 @@
+Uuid: fff7c6ccd34a478f909f125aa392db3d
+ExtensionType: 1
+Name: MITM Decryption
+RepoName: mitm-decryption
+ScreenVersion: 3.3.7
+SerialVersion: 1
+MinPlatformVersion: 25
+ProOnly: False
+Author: outlaws-bai
+ShortDescription: The extension simplifies the testing of encrypted traffic, by automatically decrypting it to plaintext, allowing for efficient penetration testing and vulnerability discovery.
+EntryPoint: Galaxy-3.3.7-basic.jar
+BuildCommand: ./gradlew shadowJar
+SupportedProducts: Pro, Community
