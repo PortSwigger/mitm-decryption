@@ -3,7 +3,7 @@ ExtensionType: 1
 Name: MITM Decryption
 RepoName: mitm-decryption
 ScreenVersion: 3.3.7
-SerialVersion: 2
+SerialVersion: 3
 MinPlatformVersion: 25
 ProOnly: False
 Author: outlaws-bai
